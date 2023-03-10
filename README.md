@@ -1,3 +1,3 @@
 # Chatbot
 
-ChatBot using python.
+ChatBot using the python library Chatterbot.
